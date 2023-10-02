@@ -34,13 +34,4 @@ function fetchCurrentWeather(city) {
 
 
 
-
-
-
-
-
-
-
-
-
-})aecc33e1f3ac606321129d5660f649cb
+)
