@@ -61,14 +61,6 @@ display: flex;
         margin-bottom: 10px;
     }
 
-    .forecast-container {
-        overflow-x: auto;
-        border: solid;
-        border-color: #ccc;
-        width: 100%;
-        margin-left: 0;
-       border: none;
-    }
 
 
 }

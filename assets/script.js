@@ -63,7 +63,7 @@ $(document).ready(function() {
             var forecast = dailyForecasts[date];
             var formattedDate = dayjs(forecast.dt_txt).format('MMMM D, YYYY');
             var iconCode = forecast.weather[0].icon;
-            var temperature = (forecast.main.temp - 273.15).toFixed(2); // Convert from Kelvin to Celsius
+            var temperature = (forecast.main.temp - 273.15).toFixed(2); // Convert from Kelvin to farenheit
             var humidity = forecast.main.humidity;
             var windSpeed = forecast.wind.speed;
     
