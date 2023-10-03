@@ -18,14 +18,9 @@ The 5 Day Weather application solves the problem of utilizing a traditional webs
 TO view te code as i made it, you will need to have an IDE like VsCode to look at it. BUt Github alows you to view it as well by clicking on the files. To utilize it please click the deployed link below.
 
 ## Usage
+![weather](https://github.com/HenegarCodes/5-Day-Weather-App/assets/78831747/5730cf5c-082b-4f13-8f28-ca949032cbdd) 
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
 
 ## Credits
 
