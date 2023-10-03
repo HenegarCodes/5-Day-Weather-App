@@ -12,16 +12,47 @@ h1 {
     margin: 0;
     padding: 0;
 margin-bottom: 10px;
+}
+
+.section-2, #currentWeather, #current-weather {
+    display: flex;
+    justify-content: center;
+margin-left: 0;
+margin-top:0 ;
 
 }
 
-#currentWeather, #current-weather{ 
+ul {
+    cursor: pointer;
+list-style: none;
+padding: 8px;
+border: 1px solid #ccc;
+background-color: #fff;
+border-radius: 4px;
+margin-top: 2px;
+width: 180px;
+color: blue;
+}
+
+#future{
     align-items: center;
     justify-content: center;
     align-content: center;
     text-align: center;
+    display: flex;
+    width: 20%;
 }
 
+.mb-4curr, #forecastWeather{
+display: flex;
+    background-color: gray;
+    justify-content: space-between;
+}
+
+.section-3 section {
+    margin-right: 0;
+    border-radius: 5px;
+}
 /* media queries to improve look on smaller px screens */
 @media (max-width: 768px) {
 
